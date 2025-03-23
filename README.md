@@ -6,6 +6,8 @@ From staging's small steps to history's deep hold,
 A versioning story, forever untold.
 With push and with pull, the code finds its way,
 Through conflicts and changes, it brightens the day.
+=======
+Through conflicts and changes, it brightens the day.
 
 A tangled web of branches, a merge's harsh sting,
 Git's cryptic commands, where frustrations take wing.
@@ -21,3 +23,4 @@ A version control beast, with a powerful claw,
 Git's might can both build, and utterly maul.
 Though mastery beckons, a distant, faint gleam,
 The journey through Git, is a developer's bad dream.
+
